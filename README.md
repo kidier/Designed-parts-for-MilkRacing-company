@@ -1,4 +1,5 @@
-# Designed-parts-for-MilkRacing-company
+# Designed-parts-for-MilkRacing-company.
+
 I have photos of my previous projects. In order to not share company private informations, i didn't share stl files
 ![image](https://user-images.githubusercontent.com/53048230/134530239-0e14bae3-66e6-49cd-a1d3-704cc7147ca4.png)
 ![image](https://user-images.githubusercontent.com/53048230/134530268-f8dd85f9-46f0-47d8-ba8f-4224fbd8a175.png)
